@@ -4,15 +4,13 @@
 
 <p align="left">Apaixonada por ciência e tecnologia, busco transformar conhecimento científico em dados e códigos, criando soluções inovadoras que impactam no dia a dia.</p>
 
-###
-
 <br clear="both">
 
 <h3 align="left">Sobre mim</h3>
 
 ###
 
-<p align="left">Natural da linda ilha de Florianópolis, tenho 27 anos e sou mãe de 2 (gatos).<br><br> Formada em Ciência e Tecnologia de alimentos, pela Universidade de Santa Catarina, tenho uma enorme paixão bioprocessos e biotecnologia.<br><br>Atualmente estudo Ciência de Dados, aplicando Python, análise de dados e Machine Learning para aprimorar os meus conhecimentos e desenvolver soluções robustas</p>
+<p align="left">Natural da linda ilha de Florianópolis, tenho 27 anos e sou mãe de 2 (gatos).<br><br> Formada em Ciência e Tecnologia de alimentos - Universidade de Santa Catarina - tenho uma enorme paixão por bioprocessos e biotecnologia!<br><br>Atualmente, estou estudando Ciência de Dados, aplicando Python, análise de dados e Machine Learning para aprimorar os meus conhecimentos e desenvolver soluções robustas para diferentes campos de atuação.</p>
 
 ###
 
