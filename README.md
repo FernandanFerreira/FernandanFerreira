@@ -31,7 +31,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/fernanda-nunes-ferreira-7a247a1b4">
+  <a href="https://www.linkedin.com/in/fernanda-nunes-ferreira-7a247a1b4">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=436b83&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/fernanda_nunex/">
