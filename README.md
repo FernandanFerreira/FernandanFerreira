@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Natural da linda ilha de Florianópolis, tenho 27 anos e sou mãe de 2 (gatos).<br><br> Formada em Ciência e Tecnologia de alimentos - Universidade de Santa Catarina - tenho uma enorme paixão por bioprocessos e biotecnologia!<br><br>Atualmente, estou estudando Ciência de Dados, aplicando Python, análise de dados e Machine Learning para aprimorar os meus conhecimentos e desenvolver soluções robustas para diferentes campos de atuação.</p>
+<p align="left">Natural da linda ilha de Florianópolis, tenho 27 anos e sou mãe de 3 (gatos).<br><br> Formada em Ciência e Tecnologia de alimentos - Universidade de Santa Catarina - tenho uma enorme paixão por bioprocessos e biotecnologia!<br><br>Atualmente, estou estudando Ciência de Dados, aplicando Python, análise de dados e Machine Learning para aprimorar os meus conhecimentos e desenvolver soluções robustas para diferentes campos de atuação.</p>
 
 ###
 
@@ -21,10 +21,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
-  <img width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css logo"  />
-  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" height="40" alt="sql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  />
 </div>
 
