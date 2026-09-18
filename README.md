@@ -1,4 +1,4 @@
-<h2 align="center">Hello World!! </h2>
+h<h2 align="center">Hello World!! </h2>
 
 ###
 
@@ -26,37 +26,13 @@ Atualmente, estou direcionando minha carreira para a área de Dados, desenvolven
 
 <h4 align="left">Ferramentas e tecnologias:</h4>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-       height="40"
-       alt="Python" />
-
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg"
-       height="40"
-       alt="SQLite" />
-
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/powerbi.svg"
-       height="40"
-       alt="Power BI" />
-
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftexcel.svg"
-       height="40"
-       alt="Excel" />
-
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
-       height="40"
-       alt="Git" />
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" height="40" alt="SQLite" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/powerbi.svg" height="40" alt="Power BI" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftexcel.svg" height="40" alt="Excel" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</p>
 
 ###
 
