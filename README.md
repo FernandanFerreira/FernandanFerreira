@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Natural da linda ilha de Florianópolis, tenho 27 anos e sou mãe de 3 (gatos).<br><br> Formada em Ciência e Tecnologia de alimentos - Universidade de Santa Catarina - tenho uma enorme paixão por bioprocessos e biotecnologia!<br><br>Atualmente, estou estudando Ciência de Dados, aplicando Python, análise de dados e Machine Learning para aprimorar os meus conhecimentos e desenvolver soluções robustas para diferentes campos de atuação.</p>
+<p align="left">Natural da linda ilha de Florianópolis, tenho 28 anos e sou mãe de 3 (gatos).<br><br> Formada em Ciência e Tecnologia de alimentos - Universidade de Santa Catarina - tenho uma enorme paixão por bioprocessos e biotecnologia!<br><br>Atualmente, estou estudando Ciência de Dados, aplicando Python, análise de dados e Machine Learning para aprimorar os meus conhecimentos e desenvolver soluções robustas para diferentes campos de atuação.</p>
 
 ###
 
