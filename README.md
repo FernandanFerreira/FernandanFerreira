@@ -1,4 +1,4 @@
-<h2 align="center">Hello World!! 👋</h2>
+<h2 align="center">Hello World!! </h2>
 
 ###
 
@@ -24,26 +24,38 @@ Atualmente, estou direcionando minha carreira para a área de Dados, desenvolven
 
 ###
 
-<h4 align="left">Linguagens e tecnologias:</h4>
+<h4 align="left">Ferramentas e tecnologias:</h4>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" height="40" alt="SQL" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="Git" />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+       height="40"
+       alt="Python" />
 
-<br>
+  <img width="12" />
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" alt="Excel" />
-  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge" height="28" alt="Power Query" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg"
+       height="40"
+       alt="SQLite" />
+
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/powerbi.svg"
+       height="40"
+       alt="Power BI" />
+
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftexcel.svg"
+       height="40"
+       alt="Excel" />
+
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
+       height="40"
+       alt="Git" />
 </div>
 
 ###
@@ -54,11 +66,15 @@ Atualmente, estou direcionando minha carreira para a área de Dados, desenvolven
 
 <div align="left">
   <a href="https://www.linkedin.com/in/fernanda-nunes-ferreira-7a247a1b4">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=436b83&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=436b83&logoColor=white&labelColor=&style=for-the-badge"
+         height="20"
+         alt="LinkedIn" />
   </a>
 
   <a href="https://www.instagram.com/fernanda_nunex/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=40531a&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="Instagram" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=40531a&logoColor=white&labelColor=&style=for-the-badge"
+         height="20"
+         alt="Instagram" />
   </a>
 </div>
 
